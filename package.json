@@ -1,0 +1,22 @@
+{
+  "name": "participate-node",
+  "version": "1.0.0",
+  "description": "pARTicipate site built in Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keirstaple/pARTicipate-node.git"
+  },
+  "author": "Keir Staple <keirstaple@comcast.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keirstaple/pARTicipate-node/issues"
+  },
+  "homepage": "https://github.com/keirstaple/pARTicipate-node#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
